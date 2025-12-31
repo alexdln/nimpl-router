@@ -52,4 +52,4 @@ Create issues with wishes, ideas, difficulties, etc. All of them will definitely
 
 ## License
 
-[MIT](https://github.com/vordgi/nimpl-router/blob/main/LICENSE)
+[MIT](https://github.com/alexdln/nimpl-router/blob/main/LICENSE)
