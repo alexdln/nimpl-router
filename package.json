@@ -4,10 +4,13 @@
   "description": "",
   "scripts": {
     "nimpl:router": "pnpm --filter @nimpl/router",
-    "lint": "eslint \"package/\"",
+    "lint": "eslint \".\"",
     "eslint": "eslint",
     "prettier": "prettier",
     "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,jsx}": ["eslint"]
   },
   "repository": {
     "type": "git",
